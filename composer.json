@@ -1,0 +1,16 @@
+{
+    "name": "ysn/prmpos",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yasin Hayal",
+            "email": "yhayal34@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Param\\": "src/"
+        }
+    }
+}
